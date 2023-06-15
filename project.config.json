@@ -1,0 +1,13 @@
+{
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true,
+        "autoCompile": true
+    },
+    "appid": "tt03be75039c82e08d01",
+    "projectname": "SnowmeetTtMiniApp",
+    "douyinProjectType": "native"
+}

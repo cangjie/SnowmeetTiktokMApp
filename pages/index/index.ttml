@@ -1,0 +1,7 @@
+<view>
+  <video src="https://mini.snowmeet.top/images/96_1686816289.mp4" style="width: 750rpx;" autoplay="{{true}}" controls="{{false}}" ></video>
+</view>
+<!--button
+  open-type="getPhoneNumber"
+  bindgetphonenumber="getPhoneNumberHandler"
+>获取手机号</button-->
